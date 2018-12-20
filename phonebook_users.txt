@@ -1,0 +1,12 @@
+Ricky,13823012345,86-756-1234567,Subject Instructor of Data Communication
+Rehan,17782223434,78-243-2233422,Student of cst
+Griffin,18827322333,67-123-9998273,NBA player
+Jason,14498999999,55-435-4411111,Student and boy
+Gigi,13099992323,16-123-1231233,Teacher of CST
+Jeffson,56565656,77777,Nice
+Harry,123,abc,123abc
+Yannis,45678,87654,cool
+Nina,56789,77655,Beautiful
+Prince,56789,98765,Rich
+Leremy,11,1,1
+James,456765444,9999999,NBA player
